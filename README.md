@@ -75,6 +75,7 @@ project-folder/
 
 ## Final Preview
 
+![Project Preview](https://github.com/iqraiqrashahzadi355-a11y/Yarn-mobile-clone/blob/272d756dad81b8764bf85054095bb1ff8ee038f4/yarn%20clone%201.png).
 
 ---
 
