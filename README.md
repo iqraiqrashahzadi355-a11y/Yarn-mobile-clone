@@ -75,7 +75,19 @@ project-folder/
 
 ## Final Preview
 
-![Project Preview](https://github.com/iqraiqrashahzadi355-a11y/Yarn-mobile-clone/blob/272d756dad81b8764bf85054095bb1ff8ee038f4/yarn%20clone%201.png).
+![Project Preview](https://github.com/iqraiqrashahzadi355-a11y/Yarn-mobile-clone/blob/272d756dad81b8764bf85054095bb1ff8ee038f4/yarn%20clone%201.png)
+
+![Project Preview](https://github.com/iqraiqrashahzadi355-a11y/Yarn-mobile-clone/blob/77e0e7e4d753681103ccaa2bbb50d1e1e417f6e2/yarn%20clone%202.png)
+
+![Project Preview](https://github.com/iqraiqrashahzadi355-a11y/Yarn-mobile-clone/blob/77e0e7e4d753681103ccaa2bbb50d1e1e417f6e2/yarn%20clone%203.png)
+
+![Project Preview](https://github.com/iqraiqrashahzadi355-a11y/Yarn-mobile-clone/blob/77e0e7e4d753681103ccaa2bbb50d1e1e417f6e2/yarn%20clone%204.png)
+
+![Project Preview](https://github.com/iqraiqrashahzadi355-a11y/Yarn-mobile-clone/blob/77e0e7e4d753681103ccaa2bbb50d1e1e417f6e2/yarn%20clone%205.png)
+
+![Project Preview](https://github.com/iqraiqrashahzadi355-a11y/Yarn-mobile-clone/blob/77e0e7e4d753681103ccaa2bbb50d1e1e417f6e2/yarn%20clone%206.png)
+
+![Project Preview](https://github.com/iqraiqrashahzadi355-a11y/Yarn-mobile-clone/blob/77e0e7e4d753681103ccaa2bbb50d1e1e417f6e2/yarn%20clone%207.png)
 
 ---
 
