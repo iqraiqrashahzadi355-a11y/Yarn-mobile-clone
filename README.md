@@ -18,12 +18,19 @@ You can host this project using:
 ## 📌 Features
 
 ✔ Top Announcement Bar
+
 ✔ Responsive Navigation Header
+
 ✔ Search Section
+
 ✔ Hero Section with Call-To-Action
+
 ✔ Features Section with Image
+
 ✔ Extra Features Grid (3 items per row using Flexbox)
+
 ✔ CTA Section
+
 ✔ Footer
 
 ---
